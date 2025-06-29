@@ -1,4 +1,4 @@
-#Titanic Dataset Analysis - Power BI Dashboard
+# Titanic Dataset Analysis - Power BI Dashboard
 
 This repository contains a Power BI project that analyzes the famous Titanic dataset. The goal of this project is to provide interactive visual insights into the demographics, survival rates based on passenger class, gender and other patterns of the Titanic passengers using Power BI.
 
@@ -11,7 +11,7 @@ The Power BI report file.
 A snapshot image of the final dashboard for quick reference.
 Project documentation.
 
-#Dashboard Features
+# Dashboard Features
 
 The Power BI dashboard includes the following insights:
 
@@ -21,24 +21,24 @@ The Power BI dashboard includes the following insights:
 - **Embarkation Points**: Number of passengers from each embarkation port (C, Q, S).
 - **Interactive Filtering**: Slicers for filtering data by class, gender, and survival status.
 
-#Tools Used
+# Tools Used
 
 - **Power BI Desktop** (.pbix)
 - **Microsoft Excel/CSV** for data preparation
 - **Titanic Dataset** (in CSV format)
 
-#How to Use
+# How to Use
 
 1. Clone this repository or download the files.
 2. Open the pbix file using [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 3. Explore the visualizations and filters on the report.
 4. (Optional) Use the CSV file to recreate or modify the data model.
 
-#Dataset Source
+# Dataset Source
 
 The Titanic dataset is a popular machine learning dataset made available by [Kaggle](https://www.kaggle.com/competitions/titanic/data) and contains information about passengers such as age, sex, ticket fare, class, and survival status.
 
-## 🤝 Contributions
+# Contributions
 
 Feel free to fork the project and enhance the visuals or data model. Pull requests are welcome!
 
